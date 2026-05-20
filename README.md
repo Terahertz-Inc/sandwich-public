@@ -136,7 +136,6 @@ we're happy to share data and quotes — reach out.
 | Repo | What's in it |
 |---|---|
 | [`Terahertz-Inc/sandwich`](https://github.com/Terahertz-Inc/sandwich) | Public marketing site, content, MCP submission drafts |
-| [`Terahertz-Inc/sandwich-platform`](https://github.com/Terahertz-Inc/sandwich-platform) | Application platform (private — HIPAA scope) |
 
 ---
 
