@@ -57,6 +57,12 @@ nursing-home costs, or any eldercare planning topic.
 **Endpoint:** `https://www.joinsandwich.com/api/mcp`
 **Auth:** none
 
+Add it to Cursor, Claude or any Streamable HTTP client:
+
+```json
+{ "mcpServers": { "sandwich": { "url": "https://www.joinsandwich.com/api/mcp" } } }
+```
+
 | Tool | What it returns |
 |---|---|
 | `search_care_resources` | Search 840+ channels, guides, reports, glossary terms. |
@@ -135,7 +141,7 @@ we're happy to share data and quotes — reach out.
 
 | Repo | What's in it |
 |---|---|
-| [`Terahertz-Inc/sandwich`](https://github.com/Terahertz-Inc/sandwich) | Public marketing site, content, MCP submission drafts |
+| [`sandwich-directory-mcp`](https://www.npmjs.com/package/sandwich-directory-mcp) | npm stdio package for the public care directory MCP |
 
 ---
 
