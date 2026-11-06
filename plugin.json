@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "joinsandwich-directory",
+  "version": "0.1.2",
+  "description": "Search caregiving resources and community channels, and estimate long-term care costs for the sandwich generation.",
+  "author": {
+    "name": "Terahertz, Inc.",
+    "email": "support@joinsandwich.com",
+    "url": "https://www.joinsandwich.com"
+  },
+  "homepage": "https://www.joinsandwich.com",
+  "repository": "https://github.com/Terahertz-Inc/sandwich-public",
+  "license": "MIT",
+  "keywords": [
+    "joinsandwich",
+    "sandwich-generation",
+    "caregiving",
+    "directory",
+    "mcp"
+  ]
+}

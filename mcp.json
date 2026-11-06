@@ -1,6 +1,8 @@
 {
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
   "mcpServers": {
     "joinsandwich-directory": {
+      "type": "streamable-http",
       "url": "https://www.joinsandwich.com/api/mcp"
     }
   }
