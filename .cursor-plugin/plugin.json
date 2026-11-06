@@ -1,0 +1,21 @@
+{
+  "name": "joinsandwich-directory",
+  "displayName": "joinsandwich directory",
+  "description": "Search caregiving resources and channels, and estimate long-term care costs.",
+  "version": "0.1.2",
+  "author": {
+    "name": "Terahertz, Inc.",
+    "email": "support@joinsandwich.com"
+  },
+  "homepage": "https://www.joinsandwich.com",
+  "repository": "https://github.com/Terahertz-Inc/sandwich-public",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "caregiving",
+    "eldercare",
+    "long-term-care",
+    "sandwich-generation"
+  ],
+  "logo": "assets/logo.png"
+}
