@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "joinsandwich-directory": {
+      "url": "https://www.joinsandwich.com/api/mcp"
+    }
+  }
+}
