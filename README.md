@@ -10,7 +10,7 @@ about Medicare, Medicaid, long-term care insurance, and the cost of
 care in any U.S. state.
 
 🌐 **Marketing site:** [joinsandwich.com](https://www.joinsandwich.com)
-👨‍👩‍👧 **Family app:** [app.joinsandwich.com](https://app.joinsandwich.com)
+**Family app:** [app.joinsandwich.com](https://app.joinsandwich.com)
 🤖 **Agent integration docs:** [app.joinsandwich.com/agents](https://app.joinsandwich.com/agents)
 📦 **MCP Registry:** [`com.joinsandwich/directory`](https://registry.modelcontextprotocol.io/v0.1/servers?search=com.joinsandwich) · [`com.joinsandwich/care-circle`](https://registry.modelcontextprotocol.io/v0.1/servers?search=com.joinsandwich)
 
