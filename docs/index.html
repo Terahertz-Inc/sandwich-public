@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sandwich Public MCP</title>
+    <meta
+      name="description"
+      content="Public GitHub Pages landing for the Sandwich Directory MCP — open caregiving tools for the sandwich generation."
+    />
+    <link rel="canonical" href="https://terahertz-inc.github.io/sandwich-public/" />
+    <link rel="icon" href="logo.png" type="image/png" />
+    <style>
+      :root {
+        --bread: #f4ead8;
+        --crust: #c47a3a;
+        --jelly: #6b1d8a;
+        --jelly-deep: #4a1262;
+        --peanut: #d4a017;
+        --ink: #2b1a12;
+        --paper: #fffaf3;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        margin: 0;
+        min-height: 100%;
+      }
+
+      body {
+        font-family: Georgia, "Times New Roman", serif;
+        color: var(--ink);
+        background:
+          radial-gradient(circle at top left, #ffe9c4 0, transparent 42%),
+          radial-gradient(circle at bottom right, #f3d6ff 0, transparent 48%),
+          var(--bread);
+        line-height: 1.55;
+      }
+
+      main {
+        max-width: 40rem;
+        margin: 0 auto;
+        padding: 4.5rem 1.5rem 3rem;
+        text-align: center;
+      }
+
+      .mark {
+        width: 7.5rem;
+        height: auto;
+        display: block;
+        margin: 0 auto 1.75rem;
+      }
+
+      p.kicker {
+        font-family: ui-sans-serif, system-ui, sans-serif;
+        font-size: 0.75rem;
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+        color: var(--jelly);
+        margin: 0 0 0.75rem;
+      }
+
+      h1 {
+        font-size: clamp(2rem, 5vw, 2.75rem);
+        font-weight: 700;
+        letter-spacing: -0.02em;
+        margin: 0 0 1rem;
+      }
+
+      .lede,
+      .note {
+        font-size: 1.05rem;
+      }
+
+      .lede {
+        margin: 0 0 1.75rem;
+      }
+
+      .cta {
+        display: inline-block;
+        background: var(--jelly);
+        color: var(--paper);
+        text-decoration: none;
+        font-family: ui-sans-serif, system-ui, sans-serif;
+        font-weight: 700;
+        font-size: 1.05rem;
+        padding: 0.9rem 1.45rem;
+        border-radius: 999px;
+        box-shadow: 0 8px 0 var(--jelly-deep);
+      }
+
+      .cta:hover,
+      .cta:focus-visible {
+        background: var(--jelly-deep);
+      }
+
+      .note {
+        margin: 2rem 0 0;
+      }
+
+      a.inline {
+        color: var(--jelly-deep);
+        font-weight: 700;
+      }
+
+      footer {
+        margin-top: 3rem;
+        font-family: ui-sans-serif, system-ui, sans-serif;
+        font-size: 0.85rem;
+        color: #5c4636;
+      }
+
+      footer a {
+        color: inherit;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <img class="mark" src="logo.png" alt="Sandwich peanut-butter-and-jelly logo" />
+      <p class="kicker">Open MCP repo landing</p>
+      <h1>Sandwich Public</h1>
+      <p class="lede">
+        This GitHub Pages site is the public front door for
+        <strong>sandwich-public</strong>, the open plugin that lets AI agents
+        search caregiving resources and estimate long-term care costs. The
+        product itself lives on Sandwich.
+      </p>
+      <p>
+        <a class="cta" href="https://www.joinsandwich.com">Go to Sandwich</a>
+      </p>
+      <p class="note">
+        The Sandwich Directory MCP in this repository is read-only and needs no
+        account. Setup notes for Claude, Cursor, and other clients are on the
+        <a class="inline" href="https://www.joinsandwich.com/agents">agent docs</a>.
+      </p>
+      <footer>
+        Terahertz, Inc. dba Sandwich ·
+        <a href="https://github.com/Terahertz-Inc/sandwich-public">Source on GitHub</a>
+      </footer>
+    </main>
+  </body>
+</html>
