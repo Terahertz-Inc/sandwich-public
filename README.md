@@ -1,5 +1,10 @@
 # Sandwich
 
+[![npm](https://img.shields.io/npm/v/sandwich-directory-mcp.svg)](https://www.npmjs.com/package/sandwich-directory-mcp)
+[![MCP Registry](https://img.shields.io/badge/MCP%20Registry-listed-green)](https://registry.modelcontextprotocol.io/v0.1/servers?search=com.joinsandwich%2Fdirectory)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+
 **The platform for the sandwich generation — caring for aging parents while raising kids.**
 
 Sandwich helps families coordinate eldercare, organize what their parents

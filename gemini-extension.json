@@ -1,0 +1,10 @@
+{
+  "name": "joinsandwich-directory",
+  "version": "0.1.2",
+  "description": "Sandwich public directory MCP: read-only aging-parent care resources and cost data.",
+  "mcpServers": {
+    "joinsandwich-directory": {
+      "httpUrl": "https://www.joinsandwich.com/api/mcp"
+    }
+  }
+}
